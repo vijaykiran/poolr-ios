@@ -3,7 +3,7 @@
 //  PoolrTests
 //
 //  Created by Vijay Kiran on 20/12/11.
-//  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2011 Lunatech Labs B.V.. All rights reserved.
 //
 
 #import "PoolrTests.h"
