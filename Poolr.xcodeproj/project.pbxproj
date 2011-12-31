@@ -25,6 +25,11 @@
 		8EB59E0814A0E6BB00D302F7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EB59DDE14A0E6BB00D302F7 /* Foundation.framework */; };
 		8EB59E1014A0E6BB00D302F7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8EB59E0E14A0E6BB00D302F7 /* InfoPlist.strings */; };
 		8EB59E1314A0E6BB00D302F7 /* PoolrTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EB59E1214A0E6BB00D302F7 /* PoolrTests.m */; };
+		8EDCC5BC14AF623000576E14 /* icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EDCC5B714AF623000576E14 /* icon-29.png */; };
+		8EDCC5BD14AF623000576E14 /* icon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EDCC5B814AF623000576E14 /* icon-57.png */; };
+		8EDCC5BE14AF623000576E14 /* icon-58.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EDCC5B914AF623000576E14 /* icon-58.png */; };
+		8EDCC5BF14AF623000576E14 /* icon-114.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EDCC5BA14AF623000576E14 /* icon-114.png */; };
+		8EDCC5C014AF623000576E14 /* icon-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EDCC5BB14AF623000576E14 /* icon-512.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +68,11 @@
 		8EB59E0F14A0E6BB00D302F7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8EB59E1114A0E6BB00D302F7 /* PoolrTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PoolrTests.h; sourceTree = "<group>"; };
 		8EB59E1214A0E6BB00D302F7 /* PoolrTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PoolrTests.m; sourceTree = "<group>"; };
+		8EDCC5B714AF623000576E14 /* icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-29.png"; sourceTree = "<group>"; };
+		8EDCC5B814AF623000576E14 /* icon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-57.png"; sourceTree = "<group>"; };
+		8EDCC5B914AF623000576E14 /* icon-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-58.png"; sourceTree = "<group>"; };
+		8EDCC5BA14AF623000576E14 /* icon-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-114.png"; sourceTree = "<group>"; };
+		8EDCC5BB14AF623000576E14 /* icon-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-512.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +102,11 @@
 		8EB59DCD14A0E6BA00D302F7 = {
 			isa = PBXGroup;
 			children = (
+				8EDCC5B714AF623000576E14 /* icon-29.png */,
+				8EDCC5B814AF623000576E14 /* icon-57.png */,
+				8EDCC5B914AF623000576E14 /* icon-58.png */,
+				8EDCC5BA14AF623000576E14 /* icon-114.png */,
+				8EDCC5BB14AF623000576E14 /* icon-512.png */,
 				8EB59DE214A0E6BB00D302F7 /* Poolr */,
 				8EB59E0B14A0E6BB00D302F7 /* PoolrTests */,
 				8EB59DDB14A0E6BB00D302F7 /* Frameworks */,
@@ -244,6 +259,11 @@
 				8EB59DF714A0E6BB00D302F7 /* first@2x.png in Resources */,
 				8EB59DFC14A0E6BB00D302F7 /* second.png in Resources */,
 				8EB59DFE14A0E6BB00D302F7 /* second@2x.png in Resources */,
+				8EDCC5BC14AF623000576E14 /* icon-29.png in Resources */,
+				8EDCC5BD14AF623000576E14 /* icon-57.png in Resources */,
+				8EDCC5BE14AF623000576E14 /* icon-58.png in Resources */,
+				8EDCC5BF14AF623000576E14 /* icon-114.png in Resources */,
+				8EDCC5C014AF623000576E14 /* icon-512.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -451,6 +471,7 @@
 				8EB59E1814A0E6BB00D302F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8EB59E1914A0E6BB00D302F7 /* Build configuration list for PBXNativeTarget "PoolrTests" */ = {
 			isa = XCConfigurationList;
@@ -459,6 +480,7 @@
 				8EB59E1B14A0E6BB00D302F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
